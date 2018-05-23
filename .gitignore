@@ -109,3 +109,5 @@ hs_err_pid*
 
 
 # End of https://www.gitignore.io/api/java,linux,intellij+all
+
+src/main/java/de/tetrisiq/passwort\.txt

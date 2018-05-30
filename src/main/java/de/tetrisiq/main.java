@@ -18,7 +18,6 @@ public class main {
         String subject = "subject";
         String body = "Body";
         mail.sendEmail(toEmail, subject, body);
-
     }
 
 

@@ -3,7 +3,7 @@ package de.tetrisiq;
 
 public interface EmailProvider {
 
-    public void sendEmail(String toEmail, String subject, String body);
-    public void setupNoReplyMailAdress();
-    public void configServer();
+    void sendEmail(String toEmail, String subject, String body);
+    void setupNoReplyMailAdress();
+    void configServer();
     }
